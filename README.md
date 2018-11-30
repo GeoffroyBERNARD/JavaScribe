@@ -11,7 +11,7 @@ JavaScribe will record an interview for you, just speak and hit switch to change
 
   * You can rename the interlocutors simply by changing the inputs on the left
 
-  * Once one is finished talking, press switch to... swap with the other, 
+  * Once one is finished talking, press switch to... switch with the other, 
 
   * Make sure to only click switch when the text on the top has disaspeared to change the current interlocutor
   
